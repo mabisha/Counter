@@ -1,0 +1,9 @@
+.main{
+    display:grid;
+    place-items: center;
+    text-align: center;
+    height: 100vh;
+}
+span{
+    font-size: 30px;
+}
